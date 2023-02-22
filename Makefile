@@ -12,4 +12,4 @@ mshni992.o: mshni992.c
 DEBUG: -g
 
 clean:
-	rm -rf *.o hello
+	rm *.out
